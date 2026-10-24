@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- shield -->
+  <path d="M32 4 L55 12 V30 C55 45 45 55.5 32 60 C19 55.5 9 45 9 30 V12 Z" fill="#ffffff" stroke="#2c5cb4" stroke-width="4"/>
+  <!-- padlock behind the page -->
+  <path d="M21 29 V22 a8.5 8.5 0 0 1 17 0 v3" stroke="#28a9ba" stroke-width="3.6"/>
+  <rect x="16" y="28" width="14" height="17" rx="2.5" fill="#28a9ba"/>
+  <!-- page -->
+  <path d="M25 22 h11 l6 6 v16 a2 2 0 0 1 -2 2 H25 a2 2 0 0 1 -2 -2 V24 a2 2 0 0 1 2 -2 z" fill="#ffffff" stroke="#2c5cb4" stroke-width="2.2"/>
+  <path d="M36 22 v4 a2 2 0 0 0 2 2 h4" stroke="#2c5cb4" stroke-width="1.8"/>
+  <path d="M26.5 32.5 l2 -5 l2 5 M27.3 30.8 h2.4" stroke="#2c5cb4" stroke-width="1.5"/>
+  <path d="M27 36 h10 M27 39.5 h10 M27 43 h6" stroke="#2c5cb4" stroke-width="1.5"/>
+  <!-- pen -->
+  <path d="M49 25.5 L40.5 38" stroke="#28a9ba" stroke-width="4.4"/>
+  <path d="M40.5 38 L39 41.5" stroke="#2c5cb4" stroke-width="2"/>
+  <!-- check -->
+  <path d="M14 39.5 l5 5 l8.5 -9" stroke="#28a9ba" stroke-width="3.6"/>
+</svg>
